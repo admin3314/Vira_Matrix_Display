@@ -238,7 +238,18 @@ Vira_Matrix_Library/
 
 ├── LICENSE
 
+---
 
+## 🎬 Live Demo
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/admin3314/Vira_Matrix_Library/main/assets/demo.gif" width="420"/>
+</p>
+
+<p align="center">
+  ⚡ <b>Real-time ESP8266 LED Matrix Control</b><br>
+  🎨 Pixel Drawing • 💬 Text Control • 🎞 Animations • ⚡ WebSocket Live Sync
+</p>
 
 ---
 
