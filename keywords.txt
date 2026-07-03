@@ -1,3 +1,8 @@
-Vira_Matrix	KEYWORD1
-drawPixel	KEYWORD2
+ViraMatrix	KEYWORD1
+setPixel		KEYWORD2
+setFrame		KEYWORD2
+refresh		KEYWORD2
+begin		KEYWORD2
+runSmileAnimation	KEYWORD2
+runHeartAnimation	KEYWORD2
 scrollText	KEYWORD2
