@@ -1,0 +1,72 @@
+Vira_Matrix_Library License
+Dual License: MIT (Open Source) + Commercial License
+
+Copyright (c) 2026 Mostafa Mir Mosavi (@viramedar)
+
+---
+
+## 🟢 1. Open Source License (MIT)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software under the following conditions:
+
+- Use
+- Copy
+- Modify
+- Merge
+- Publish
+- Distribute
+- Sublicense
+
+This is allowed for personal, educational, and non-commercial projects.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+
+---
+
+## 🔵 2. Commercial Use License
+
+Commercial use of this software is NOT freely permitted.
+
+Commercial use includes but is not limited to:
+
+- Selling products using this library
+- Embedding in commercial hardware (PCB, modules, devices)
+- Paid software or firmware distribution
+- SaaS or cloud-based commercial services using this library
+
+To use this library commercially, you must obtain a separate license
+from the author:
+
+📩 Contact:
+- GitHub: https://github.com/admin3314
+- Telegram: @viraep
+- Channel: @viramedar
+
+---
+
+## ⚠️ Restrictions
+
+Without a commercial license, you MAY NOT:
+
+- Sell products using this library
+- Remove author attribution
+- Rebrand the library as your own
+- Use it in closed-source commercial devices
+
+---
+
+## 🧠 Attribution Requirement
+
+All derivatives or forks must include:
+
+"Based on Vira_Matrix_Library by Mostafa Mir Mosavi (@viramedar)"
+
+---
+
+## 📌 Summary
+
+✔ Free for learning and personal use  
+✔ Free for non-commercial projects  
+❌ Commercial use requires permission  

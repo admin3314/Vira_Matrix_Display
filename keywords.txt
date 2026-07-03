@@ -1,0 +1,3 @@
+Vira_Matrix	KEYWORD1
+drawPixel	KEYWORD2
+scrollText	KEYWORD2
