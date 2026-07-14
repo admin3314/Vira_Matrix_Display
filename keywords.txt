@@ -1,12 +1,11 @@
 #######################################
-# Vira Matrix Library
+# Vira Matrix
 # Designed by Mostafa Mir Mosavi
 # ViraMedar
 #######################################
 
 ViraMatrix	KEYWORD1
 Vira_Matrix	KEYWORD1
-ViraMatrixLibrary	KEYWORD1
 
 
 #######################################
