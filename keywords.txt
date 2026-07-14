@@ -1,8 +1,73 @@
+#######################################
+# Vira Matrix Library
+# Designed by Mostafa Mir Mosavi
+# ViraMedar
+#######################################
+
 ViraMatrix	KEYWORD1
-setPixel		KEYWORD2
-setFrame		KEYWORD2
-refresh		KEYWORD2
-begin		KEYWORD2
-runSmileAnimation	KEYWORD2
-runHeartAnimation	KEYWORD2
-scrollText	KEYWORD2
+Vira_Matrix	KEYWORD1
+ViraMatrixLibrary	KEYWORD1
+
+
+#######################################
+# Initialization
+#######################################
+
+begin	KEYWORD2
+refresh	KEYWORD2
+clear	KEYWORD2
+
+
+#######################################
+# Frame Control
+#######################################
+
+setFrame	KEYWORD2
+setPixel	KEYWORD2
+
+
+#######################################
+# Display Control
+#######################################
+
+show	KEYWORD2
+shiftOutByte	KEYWORD2
+
+
+#######################################
+# Display Features
+#######################################
+
+Vira_Emoji	KEYWORD1
+Vira_Font5x7	KEYWORD1
+Vira_Utils	KEYWORD1
+
+
+#######################################
+# Matrix Concepts
+#######################################
+
+LED_MATRIX	LITERAL1
+LED_DISPLAY	LITERAL1
+DOT_MATRIX	LITERAL1
+8x8_MATRIX	LITERAL1
+74HC595	LITERAL1
+SHIFT_REGISTER	LITERAL1
+
+
+#######################################
+# Supported Platforms
+#######################################
+
+ESP8266	LITERAL1
+ESP32	LITERAL1
+
+
+#######################################
+# Project Branding
+#######################################
+
+ViraMedar	LITERAL1
+Vira	VIRA
+ViraEP	LITERAL1
+Mostafa_Mir_Mosavi	LITERAL1
